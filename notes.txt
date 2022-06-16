@@ -2,4 +2,19 @@
  Bodges from Convolution SDR
 This is NOT mine I make no claim it is, I put it here so I can work on my own bodges.
 
-Need to specifically work out the FM and Digital routines fro the T41 project
+This a tad amuzing....
+
+// Dear programmer:
+// When I wrote this code, only god and
+// I knew how it worked.
+// Now, only god knows it!
+// 
+// Therefore, if you are trying to optimize
+// this routine and it fails (most surely),
+// please increase this counter as a
+// warning for the next person:
+// 
+// total hours wasted here = 254
+//
+
+Need to specifically work out the FM and Digital routines for the T41 project
